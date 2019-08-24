@@ -114,7 +114,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 1030;
-				ORGANIZATIONNAME = "Zac Cohan";
+				ORGANIZATIONNAME = "Mike Makuch";
 				TargetAttributes = {
 					11145BE223104BDF008825AD = {
 						CreatedOnToolsVersion = 10.3;
@@ -295,7 +295,7 @@
 				CODE_SIGN_ENTITLEMENTS = AutoMute/AutoMute.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 8HSTZV64A5;
+				DEVELOPMENT_TEAM = 2G3T27P28W;
 				INFOPLIST_FILE = AutoMute/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -314,7 +314,7 @@
 				CODE_SIGN_ENTITLEMENTS = AutoMute/AutoMute.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 8HSTZV64A5;
+				DEVELOPMENT_TEAM = 2G3T27P28W;
 				INFOPLIST_FILE = AutoMute/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
